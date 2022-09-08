@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Wordllban&show_icons=true&&theme=tokyonight" />
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Wordllban/&icon_color=%23E7E7E7&&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Wordllban/&count_bg=%23DB16AE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views)
 [![wakatime](https://wakatime.com/badge/user/01a20e69-26f7-4f31-bdbc-15299317e534.svg)](https://wakatime.com/@01a20e69-26f7-4f31-bdbc-15299317e534)
 
 <!--
