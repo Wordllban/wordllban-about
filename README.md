@@ -5,7 +5,7 @@
 [![wakatime](https://wakatime.com/badge/user/01a20e69-26f7-4f31-bdbc-15299317e534.svg)](https://wakatime.com/@01a20e69-26f7-4f31-bdbc-15299317e534)
 
 <!-- STATS -->
-<p align="center">
+<p align="start">
 <img src="https://github-readme-stats.vercel.app/api?username=Wordllban&show_icons=true&&theme=jolly" />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wordllban&layout=compact&theme=jolly"/>
