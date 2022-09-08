@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Wordllban&show_icons=true&&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Wordllban&show_icons=true&&theme=jolly" />
 </p>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Wordllban/&count_bg=%23EB28BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views)
