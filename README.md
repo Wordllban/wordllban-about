@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-<!-- BADGES -->
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Wordllban/&count_bg=%23EB28BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views)
-[![wakatime](https://wakatime.com/badge/user/01a20e69-26f7-4f31-bdbc-15299317e534.svg)](https://wakatime.com/@01a20e69-26f7-4f31-bdbc-15299317e534)
-
 <!-- STATS -->
 <p align="start">
 <img src="https://github-readme-stats.vercel.app/api?username=Wordllban&show_icons=true&&theme=jolly" />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wordllban&layout=compact&theme=jolly"/>
 </p>
+
+<!-- BADGES -->
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Wordllban/&count_bg=%23EB28BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views)
+[![wakatime](https://wakatime.com/badge/user/01a20e69-26f7-4f31-bdbc-15299317e534.svg)](https://wakatime.com/@01a20e69-26f7-4f31-bdbc-15299317e534)
 
 <!--
 **Wordllban/Wordllban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
