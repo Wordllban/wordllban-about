@@ -3,7 +3,6 @@
 <!-- STATS -->
 <p align="start">
 <img src="https://github-readme-stats.vercel.app/api?username=Wordllban&show_icons=true&&theme=jolly" />
-<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wordllban&layout=compact&theme=jolly"/>
 </p>
 
