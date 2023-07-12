@@ -2,8 +2,8 @@
 
 <!-- STATS -->
 <p align="start">
-<img src="https://github-readme-stats-rjhlz4j62-wordllban.vercel.app/api?username=Wordllban&show_icons=true&&theme=jolly" />
-<img src="https://github-readme-stats-rjhlz4j62-wordllban.vercel.app/api/top-langs/?username=wordllban&layout=compact&theme=jolly"/>
+<img src="https://github-readme-stats-7aqi61kx6-wordllban.vercel.app/api?username=Wordllban&show_icons=true&&theme=jolly" />
+<img src="https://github-readme-stats-7aqi61kx6-wordllban.vercel.app/api/top-langs/?username=wordllban&layout=compact&theme=jolly"/>
 </p>
 
 <!-- BADGES -->
