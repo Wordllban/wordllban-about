@@ -16,12 +16,10 @@
 
 <h3>Stats</h3>
 
-<p align="start">
+<span align="start">
   <img align="left" src="https://wordllban-readme-stats.vercel.app/api/top-langs/?username=wordllban&size_weight=0&count_weight=1&layout=compact&theme=jolly" height="195" width="350"/>
   <img src="https://wordllban-readme-stats.vercel.app/api?username=Wordllban&show_icons=true&theme=jolly" height="195" width="420"/>
-</p>
-
-
+</span>
 [![Wakatime](https://wakatime.com/badge/user/01a20e69-26f7-4f31-bdbc-15299317e534.svg)](https://wakatime.com/@01a20e69-26f7-4f31-bdbc-15299317e534)
 [![CodeWars](https://www.codewars.com/users/Wordllban/badges/micro)](https://www.codewars.com/users/Wordllban)
 
@@ -33,6 +31,7 @@
 <h3>Education</h3>
 
 + Bachelor's degree, Computer Science
+
 
 <h3>My hobbies</h3>
 
