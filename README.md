@@ -18,7 +18,7 @@
 
 <p align="start">
   <img align="left" src="https://wordllban-readme-stats.vercel.app/api/top-langs/?username=wordllban&size_weight=0&count_weight=1&layout=compact&theme=jolly" height="195" width="350"/>
-  <img src="https://wordllban-readme-stats.vercel.app/api?username=Wordllban&show_icons=true&theme=jolly" height="195" width="425"/>
+  <img src="https://wordllban-readme-stats.vercel.app/api?username=Wordllban&show_icons=true&theme=jolly" height="195" width="420"/>
 </p>
 
 
