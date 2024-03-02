@@ -27,8 +27,7 @@
 
 
 <h3>I’m currently learning Golang</h3>
-  <br />
-  <img align="center" src="https://github.com/Wordllban/wordllban/assets/74874576/32f6484b-c9f4-42f7-93d0-1712ee3fddaa" height="100"/>
+<img align="center" src="https://github.com/Wordllban/wordllban/assets/74874576/32f6484b-c9f4-42f7-93d0-1712ee3fddaa" height="100"/>
 
 
 <h3>Education</h3>
