@@ -20,6 +20,7 @@
   <img align="left" src="https://wordllban-readme-stats.vercel.app/api/top-langs/?username=wordllban&size_weight=0&count_weight=1&layout=compact&theme=jolly" height="195" width="350"/>
   <img src="https://wordllban-readme-stats.vercel.app/api?username=Wordllban&show_icons=true&theme=jolly" height="195" width="420"/>
 </span>
+
 [![Wakatime](https://wakatime.com/badge/user/01a20e69-26f7-4f31-bdbc-15299317e534.svg)](https://wakatime.com/@01a20e69-26f7-4f31-bdbc-15299317e534)
 [![CodeWars](https://www.codewars.com/users/Wordllban/badges/micro)](https://www.codewars.com/users/Wordllban)
 
