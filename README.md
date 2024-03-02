@@ -25,14 +25,8 @@
 [![Wakatime](https://wakatime.com/badge/user/01a20e69-26f7-4f31-bdbc-15299317e534.svg)](https://wakatime.com/@01a20e69-26f7-4f31-bdbc-15299317e534)
 [![CodeWars](https://www.codewars.com/users/Wordllban/badges/micro)](https://www.codewars.com/users/Wordllban)
 
-<p>
-  <a href="https://u8views.com/github/Wordllban">
-    <img src="https://u8views.com/api/v1/github/profiles/74874576/views/day-week-month-total-count.svg">
-  </a>
-</p>
 
-
-+ I’m currently learning <strong>Golang</strong>
+<h3>I’m currently learning Golang</h3>
   <br />
   <img align="center" src="https://github.com/Wordllban/wordllban/assets/74874576/32f6484b-c9f4-42f7-93d0-1712ee3fddaa" height="100"/>
 
@@ -47,5 +41,12 @@
 + Gardening <img align="center" src="https://github.com/Wordllban/wordllban/assets/74874576/1853a5c2-b728-4f09-8d09-e8b2fa51f80a" height="38"/>
 + Hardware using <strong>Arduino</strong> and <strong>ESP</strong>
 
+<br />
+
+<p>
+  <a href="https://u8views.com/github/Wordllban">
+    <img src="https://u8views.com/api/v1/github/profiles/74874576/views/day-week-month-total-count.svg">
+  </a>
+</p>
 
 ---
