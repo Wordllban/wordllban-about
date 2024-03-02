@@ -2,8 +2,9 @@
 
 ---
 
-<h1 align="center" styles="color: red;">Hi there 👋</h1> 
-<h3 align="left">Contacts & Socials</h3>
+<h1 align="center">Hi there 👋</h1> 
+
+<h3 align="left">Contacts and Socials</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostiantyn-mininkov/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mininkov1337@gmail.com)
