@@ -32,7 +32,7 @@
 
 <h3>Education</h3>
 
-+ Bachelor's degree, Computer Science
++ Bachelor's degree, Computer Science and Internet of Things
 
 
 <h3>My hobbies</h3>
