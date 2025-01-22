@@ -8,10 +8,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostiantyn-mininkov/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mininkov1337@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/wordllban)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/spalaxxx)
 [![DOU](https://s.dou.ua/assets/img/favicon32.png)](https://dou.ua/users/kostiantyn-mininkov/)
 
-<h3>Currently using</h3>
+<h3>I have experience with</h3>
 
 [![Stack](https://skillicons.dev/icons?i=ts,golang,react,nodejs,nestjs,electron,next,graphql,tailwind,mui,docker)](https://skillicons.dev)
 
@@ -32,7 +32,7 @@
 
 <h3>Education</h3>
 
-+ Bachelor's degree, Computer Science and Internet of Things
++ Bachelor's degree, System Engineering 
 
 
 <h3>My hobbies</h3>
